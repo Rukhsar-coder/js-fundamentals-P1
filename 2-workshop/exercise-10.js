@@ -13,6 +13,12 @@ function exercise10() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  let tri = '#'
+for (let number = 1; number <= 7; number++) {
+  console.log(tri);
+  tri = tri + '#';
+
+}
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
